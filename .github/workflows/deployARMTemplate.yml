@@ -5,7 +5,7 @@ on:
     branches:
       - master
 env:
-  AZURE_RESOURCE_GROUP: GitHubActionExercise-rg   # set this to your target resource group
+  AZURE_RESOURCE_GROUP: GitHubActionsExercise-rg   # set this to your target resource group
 
 jobs:
   deploy-virtual-network-template:
